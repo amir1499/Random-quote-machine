@@ -1,0 +1,19 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+$primary-color: #1c2331;
+
+.quote-machine {
+  background-color: $primary-color;
+  padding: 50px;
+  text-align: center;
+  color: white;
+
+  #text {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  #author {
+    font-size: 24px;
+    margin
+  }
